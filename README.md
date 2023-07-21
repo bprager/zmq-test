@@ -30,3 +30,6 @@ cmake ..
 cmake --build .
 
 
+## Attention
+
+The executables are currently still dynamically linked. So make sure you have the dll's copied. 
